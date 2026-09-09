@@ -6,5 +6,8 @@
   "main": "index.js",
   "dist": {
     "script": "index.js"
+  },
+  "vendetta": {
+    "icon": "ic_edit_24px"
   }
 }
