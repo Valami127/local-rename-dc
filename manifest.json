@@ -3,8 +3,8 @@
   "description": "Locally rename channels via the long-press bottom sheet.",
   "author": "valami127",
   "version": "1.0.0",
-  "main": "https://cdn.jsdelivr.net/gh/valami127/local-rename-dc@main/index.js",
+  "main": "index.js",
   "dist": {
-    "script": "https://cdn.jsdelivr.net/gh/valami127/local-rename-dc@main/index.js"
+    "script": "index.js"
   }
 }
