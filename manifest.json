@@ -1,13 +1,10 @@
 {
   "name": "LocalChannelRenamer",
   "description": "Locally rename channels via the long-press bottom sheet.",
-  "author": "LocalDev",
+  "author": "valami127",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "https://cdn.jsdelivr.net/gh/valami127/local-rename-dc@main/index.js",
   "dist": {
-    "script": "index.js"
-  },
-  "vendetta": {
-    "icon": "ic_edit_24px"
+    "script": "https://cdn.jsdelivr.net/gh/valami127/local-rename-dc@main/index.js"
   }
 }
