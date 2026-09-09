@@ -1,0 +1,7 @@
+{
+  "name": "LocalChannelRenamer",
+  "description": "Locally rename channels via the long-press bottom sheet.",
+  "author": "valami127",
+  "version": "1.0.0",
+  "main": "index.js"
+}
